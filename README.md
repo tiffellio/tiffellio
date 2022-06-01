@@ -6,7 +6,3 @@
 on a couple little projects with PHPMyAdmin and the classic 'LAMP' stack which I will be posting here shortly. You can see updates on my current project by visiting
 statbench.ca which is a fitness and nutrition dashboard.
 
-- 💞️ I’m looking to collaborate on - nothing at this moment! Currently doing some personal projects but if anyone has any ideas feel free to reach me on discord.
-
-- 📫 How to reach me - you can reach me on Discord (.tiff #4645) or instagram (@tiffellio).
-
