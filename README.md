@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Tiff! (@tiffellio)
+- 👋 Hi, I’m Tiffany! (@tiffellio)
 
